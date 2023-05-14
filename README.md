@@ -5,5 +5,7 @@
 
  Link da aula : https://www.cursoemvideo.com/curso/curso-de-git-e-github/aulas/aulas-de-git-e-github/modulos/criando-o-primeiro-repositorio-curso-de-git-e-github/ 
 
-Muito obrigado Guanabara! 
+Muito obrigado Guanabara!
+
+Mudança feita direto pelo site GitHub. 
 
